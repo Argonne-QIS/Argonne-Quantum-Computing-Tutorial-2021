@@ -1,1 +1,1 @@
-Please populate the folder and the README
+Hands-on session on VQE

@@ -2,4 +2,4 @@
 Hands-on material for the quantum computing tutorial at Argonne National Laboratory (14-18 June 2021)
 
 # TODO
--[ ] All speakers add notebooks!
+- [ ] All speakers add notebooks!

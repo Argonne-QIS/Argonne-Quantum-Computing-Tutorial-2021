@@ -4,9 +4,9 @@ The recommended platform for running these notebooks is IBM IQX. Alternatively, 
  
 After logging in, go to IBM Quantum Jupyter Lab:
  
-![Notebook instructions step 1](/images/notebooks1.png)
+![Notebook instructions step 1](images/notebooks1.png)
  
 Then upload ("Import") `Hands-on.ipynb` notebook:
 
-![Notebook upload](/images/import_notebook.png)
+![Notebook upload](images/import_notebook.png)
 

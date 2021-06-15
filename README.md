@@ -29,6 +29,3 @@ Friday, June 18
 - [10:00 AM - 11:00 AM] SeQUeNCe Quantum Network Simulator Introduction
 - [11:00 AM - 12:00 PM] SeQUeNCe Quantum Network Simulator Hands-On
 
-# TODO
-- [ ] All speakers add notebooks and update README in each folder!
-- [X] Yuri: update README

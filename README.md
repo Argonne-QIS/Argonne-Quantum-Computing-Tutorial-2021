@@ -18,7 +18,7 @@ Tuesday, June 15
 - [11:00 AM - 12:00 PM] VQE Hands-On
 
 Wednesday, June 16
-- [10:05 AM - 11:00 AM] QAOA Introduction
+- [10:00 AM - 11:00 AM] QAOA Introduction
 - [11:00 AM - 12:00 PM] QAOA Hands-On
 
 Thursday, June 17
